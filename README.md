@@ -1,6 +1,6 @@
 ![](UTA-DataScience-Logo.png)
 
-# Project Title
+# Predicting Metastatic Cancer Diagnosis
 
 * This repository holds an attempt to apply machine learning techniques and models to metastatic cancer diagnosis to predict id patients recieved a cancer diagnosis withing 90 days of screening using data from
 "WiDS Datathon 2024 Challenge #1" Kaggle challenge [(https://www.kaggle.com/competitions/widsdatathon2024-challenge1)]. 
